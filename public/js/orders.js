@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[486],{99:(e,n,r)=>{r.r(n),r.d(n,{default:()=>t});var u=r(166),l=[(0,u._)("h1",null,"Orders Page",-1)];const s={},t=(0,r(744).Z)(s,[["render",function(e,n){return(0,u.wg)(),(0,u.iD)("div",null,l)}]])}}]);
